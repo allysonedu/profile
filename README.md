@@ -39,3 +39,4 @@ Adicionar aqui sua biografia
 ## Certificados
 
 - ✅ https://www.dio.me/certificate/CA216B5E/share
+- ✅ https://www.dio.me/certificate/2931FBA3/share
